@@ -37,3 +37,8 @@ Params:
   widgets:
     recent_num: 5
     tags_counter: no
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
