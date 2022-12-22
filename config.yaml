@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: 'https://agape-openscience-blog.netlify.app/'
 title: Mainroad
 languageCode: en-us
 paginate: '10'

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mainroad</title>
-    <link>/</link>
+    <link>https://agape-openscience-blog.netlify.app/</link>
     <description>Recent content on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://agape-openscience-blog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started</title>
-      <link>/docs/getting-started/</link>
+      <link>https://agape-openscience-blog.netlify.app/docs/getting-started/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>/docs/getting-started/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/docs/getting-started/</guid>
       <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal
 configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar
 with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
@@ -20,10 +20,10 @@ with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site g
     
     <item>
       <title>Customization</title>
-      <link>/docs/customization/</link>
+      <link>https://agape-openscience-blog.netlify.app/docs/customization/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>/docs/customization/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/docs/customization/</guid>
       <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
 via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,
 and more.&lt;/p&gt;</description>
@@ -31,30 +31,30 @@ and more.&lt;/p&gt;</description>
     
     <item>
       <title>Frequently asked questions (FAQ)</title>
-      <link>/docs/faq/</link>
+      <link>https://agape-openscience-blog.netlify.app/docs/faq/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>/docs/faq/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/docs/faq/</guid>
       <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere
 in the documentation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://agape-openscience-blog.netlify.app/about/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/about/</guid>
       <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.
 About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://agape-openscience-blog.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -62,19 +62,19 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Basic HTML Elements</title>
-      <link>/post/basic-elements/</link>
+      <link>https://agape-openscience-blog.netlify.app/post/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/basic-elements/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/post/basic-elements/</guid>
       <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/post/hugo-template-primer/</link>
+      <link>https://agape-openscience-blog.netlify.app/post/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/hugo-template-primer/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/post/hugo-template-primer/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
@@ -85,10 +85,10 @@ similarities in Go templates.&lt;/p&gt;</description>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/post/getting-started-with-hugo/</link>
+      <link>https://agape-openscience-blog.netlify.app/post/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started-with-hugo/</guid>
+      <guid>https://agape-openscience-blog.netlify.app/post/getting-started-with-hugo/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
