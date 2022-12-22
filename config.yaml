@@ -1,4 +1,4 @@
-baseurl: https://sa1987.github.io/agape-openscience-blog
+baseurl: /
 title: Mainroad
 languageCode: en-us
 paginate: '10'

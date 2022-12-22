@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mainroad</title>
-    <link>https://sa1987.github.io/agape-openscience-blog/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://sa1987.github.io/agape-openscience-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/installation/</link>
+      <link>/tags/installation/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/installation/</guid>
+      <guid>/tags/installation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Elements</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/basic-elements/</link>
+      <link>/tags/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/basic-elements/</guid>
+      <guid>/tags/basic-elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://sa1987.github.io/agape-openscience-blog/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sa1987.github.io/agape-openscience-blog/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description></description>
     </item>
     
