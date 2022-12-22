@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mainroad</title>
-    <link>https://github.com/sa1987/agape-openscience-blog/categories/</link>
+    <link>https://sa1987.github.io/agape-openscience-blog/categories/</link>
     <description>Recent content in Categories on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://github.com/sa1987/agape-openscience-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://sa1987.github.io/agape-openscience-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://github.com/sa1987/agape-openscience-blog/categories/r/</link>
+      <link>https://sa1987.github.io/agape-openscience-blog/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://github.com/sa1987/agape-openscience-blog/categories/r/</guid>
+      <guid>https://sa1987.github.io/agape-openscience-blog/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://github.com/sa1987/agape-openscience-blog/categories/development/</link>
+      <link>https://sa1987.github.io/agape-openscience-blog/categories/development/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/sa1987/agape-openscience-blog/categories/development/</guid>
+      <guid>https://sa1987.github.io/agape-openscience-blog/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://github.com/sa1987/agape-openscience-blog/categories/golang/</link>
+      <link>https://sa1987.github.io/agape-openscience-blog/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/sa1987/agape-openscience-blog/categories/golang/</guid>
+      <guid>https://sa1987.github.io/agape-openscience-blog/categories/golang/</guid>
       <description></description>
     </item>
     
