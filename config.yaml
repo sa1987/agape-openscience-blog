@@ -1,20 +1,20 @@
 baseurl: 'https://agape-openscience-blog.netlify.app/'
-title: Mainroad
+title: Agape Open science blog
 languageCode: en-us
 paginate: '10'
 theme: Mainroad
 disqusShortname: ''
 googleAnalytics: ''
+image: images/agapecover.png
 Author:
   avatar: img/avatar.png
-  bio: John Doe's true identity is unknown. Maybe he is a successful blogger or writer.
-    Nobody knows it.
-  name: John Doe
+  bio: We are a group of budding researchers and PhD students who first met during a course focusing on open and collaborative research designed under the project Opening Doors funded by the Horizon 2020 EU programme for research and innovation. 
+  name: Agape open science team
 Params:
   authorbox: yes
-  description: John Doe's Personal blog about everything
+  description: An openscience blog for early career reserchers and open science enthusiasts.
   logo:
-    subtitle: Just another site
+    subtitle: An agape initiative
   mainSections:
     - post
     - docs
@@ -37,7 +37,10 @@ Params:
   widgets:
     recent_num: 5
     tags_counter: no
-
+# [Params.logo]
+#   image = "images/agapecover.png"
+#   title = "Mainroad"
+#   subtitle = "Just another site"
 markup:
   goldmark:
     renderer:
