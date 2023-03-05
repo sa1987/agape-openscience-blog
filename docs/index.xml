@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Agape Open science</title>
+    <link>https://agape-openscience.netlify.app/docs/</link>
+    <description>Recent content in Documentation on Agape Open science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://agape-openscience.netlify.app/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started</title>
+      <link>https://agape-openscience.netlify.app/docs/workshops/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://agape-openscience.netlify.app/docs/workshops/</guid>
+      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal
+configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar
+with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Customization</title>
+      <link>https://agape-openscience.netlify.app/docs/agapeblog/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://agape-openscience.netlify.app/docs/agapeblog/</guid>
+      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
+via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,
+and more.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frequently asked questions (FAQ)</title>
+      <link>https://agape-openscience.netlify.app/docs/agapeteam/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>https://agape-openscience.netlify.app/docs/agapeteam/</guid>
+      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere
+in the documentation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://agape-openscience.netlify.app/docs/agapecontributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agape-openscience.netlify.app/docs/agapecontributors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://agape-openscience.netlify.app/docs/customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agape-openscience.netlify.app/docs/customization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://agape-openscience.netlify.app/docs/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agape-openscience.netlify.app/docs/faq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
